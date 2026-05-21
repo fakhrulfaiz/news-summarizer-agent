@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+langchain-anthropic
+langchain-openai
+langchain-mcp-adapters
+mcp
+anthropic
+openai
+streamlit
+newsapi-python
+pydantic
+python-dotenv
+pytest
+pytest-asyncio
